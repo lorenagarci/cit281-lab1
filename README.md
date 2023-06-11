@@ -1,11 +1,6 @@
 # cit281-lab1
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Project</title>
+
   <link rel="stylesheet" type="text/css" href="index.css">
-</head>
-<body>
 In Lab 1, the goal is to install and set up your personal computer with the necessary software tools required for CIT281! This lab also focuses on practicing the use of software tools. 
 
 I learned to work with various programs which included the following: 
@@ -20,9 +15,7 @@ I learned to work with various programs which included the following:
 -Postman is a tool used for testing server-side rules which I also downloaded. 
 
 After installing the necessary software tools I reviewed VSCode tips and tricks, set the default JavaScript code formatter, and practiced using the terminal commands in VSCode.
-  
- </body>
-</html>
+ 
 
 
 
