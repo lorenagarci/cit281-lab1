@@ -1,5 +1,5 @@
 # cit281-lab1
-<p style="background-color: #f2f2f2; padding: 10px;">
+<p style="background-color: #ff9966; padding: 10px;">
  In Lab 1, the goal is to install and set up your personal computer with the necessary software tools required for CIT281! This lab also focuses on practicing the use of software tools. 
 
 I learned to work with various programs which included the following: 
