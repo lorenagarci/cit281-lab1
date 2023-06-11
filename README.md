@@ -21,7 +21,7 @@ I learned to work with various programs which included the following:
 
 After installing the necessary software tools I reviewed VSCode tips and tricks, set the default JavaScript code formatter, and practiced using the terminal commands in VSCode.
   
-  </body>
+ </body>
 </html>
 
 
