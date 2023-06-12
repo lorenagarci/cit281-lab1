@@ -7,9 +7,7 @@ I learned to work with various programs which included the following:
 <img src="lab1.png" alt="Image">
 
 -Node.js is another important tool I learned to use for server-side JavaScript development. 
-
 -Git, a version control system, is necessary for tracking and managing code changes. Download and install Git from the Git website.
-
 -Postman is a tool used for testing server-side rules which I also downloaded. 
 
 After installing the necessary software tools I reviewed VSCode tips and tricks, set the default JavaScript code formatter, and practiced using the terminal commands in VSCode. </span>
